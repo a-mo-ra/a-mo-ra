@@ -1,4 +1,4 @@
-### Olá pessoal 👋
+### Olá!👩🏻‍💻✨
 
 ###### Sobre a Brenda 
 Estudante de UI/UX design há sete meses, e há três tenho me dedicado ao estudo autodidata de front-end e de ferramentas para desenvolvimento de aplicativos mobile. E não só por achar incrível o universo da programação, como também por acreditar que esse tipo de conhecimento adicional me permite ter uma visão mais holística do processo de design, desde a concepção até a implementação final. Tenho
