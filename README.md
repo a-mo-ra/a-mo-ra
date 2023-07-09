@@ -12,6 +12,17 @@ Estudante de UI/UX design há sete meses, e há três tenho me dedicado ao estud
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=A-mo-ra&repo=projeto-jornadafullstack--ebac&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+
+### Linguagens utilizadas
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A-mo-ra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+### Projeto
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=A-mo-ra&repo=Projeto-trilha-digital-ADA-CSS-HTML&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### Linguagens utilizadas
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A-mo-ra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
