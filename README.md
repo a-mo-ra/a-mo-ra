@@ -1,8 +1,5 @@
 ### Olá!👩🏻‍💻✨
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=A-mo-ra&repo=projeto-jornadafullstack--ebac&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ###### Sobre a Brenda 
 Estudante de UI/UX design, se aventurando também no estudo autodidata de front-end e fullstack. E não só por achar incrível o universo da programação, como também por acreditar que esse tipo de conhecimento adicional me permite ter uma visão mais holística do processo de design, desde a concepção até a implementação final.
 
