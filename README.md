@@ -11,12 +11,11 @@ Estudante de UI/UX design, se aventurando também no estudo autodidata de front-
 
 ### Projeto
 
-[![Readme Card]([https://github-readme-stats.vercel.app/api?username=A-mo-ra&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats](https://github.com/a-mo-ra/Jornada-IA---EBAC-24/blob/main/README.md))
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=A-mo-ra&repo=jornada-IA---EBAC-24&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Linguagens utilizadas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A-mo-ra&layout=compact)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/a-mo-ra/Jornada-IA---EBAC-24))
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A-mo-ra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Projeto
 
