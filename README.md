@@ -15,7 +15,7 @@ Estudante de UI/UX design, se aventurando também no estudo autodidata de front-
 
 ### Linguagens utilizadas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A-mo-ra&layout=compact&repo=jornada-IA---EBAC-24&theme=dark))](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A-mo-ra&layout=compact&repo=jornada-IA---EBAC-24&theme=dark)] (https://github.com/anuraghazra/github-readme-stats)
 
 ### Projeto
 
