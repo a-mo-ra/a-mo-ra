@@ -36,4 +36,4 @@ Estudante de UI/UX design, se aventurando também no estudo autodidata de front-
 
 ### Contatos
 
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>]([https://www.linkedin.com/in/brenda-/](https://www.linkedin.com/in/brenda-designer/))
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/brenda-designer/)
