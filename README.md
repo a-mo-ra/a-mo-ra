@@ -1,7 +1,7 @@
 ### Olá!👩🏻‍💻✨
 
 ###### Sobre a Brenda 
-Estudante de UI/UX design, se aventurando também no estudo autodidata de front-end e fullstack. E não só por achar incrível o universo da programação, como também por acreditar que esse tipo de conhecimento adicional a permite ter uma visão mais holística do processo de design, desde a concepção até a implementação final.
+Estudante de UI/UX design, se aventurando também no estudo autodidata de front-end e fullstack. E não só por achar incrível o universo da programação, como também por acreditar que esse tipo de conhecimento adicional me permite ter uma visão mais holística do processo de design, desde a concepção até a implementação final.
 
 
 ### Detalhes
