@@ -19,6 +19,8 @@ Estudante de UI/UX design, se aventurando também no estudo autodidata de front-
 
 ### Projeto
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=A-mo-ra&repo=projeto-jornadafullstack--ebac&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Linguagens utilizadas
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A-mo-ra&layout=compact&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
