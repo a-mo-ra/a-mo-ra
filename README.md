@@ -16,7 +16,7 @@ Estudante de UI/UX design, se aventurando também no estudo autodidata de front-
 
 ### Linguagens utilizadas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-mo-ra&layout=compact)](https://github.com/a-mo-ra)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-mo-ra&layout=compact&langs_count=5&hide=html,css)](https://github.com/a-mo-ra)
 
 ### Projeto
 
@@ -25,7 +25,7 @@ Estudante de UI/UX design, se aventurando também no estudo autodidata de front-
 
 ### Linguagens utilizadas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-mo-ra&layout=compact)](https://github.com/a-mo-ra)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-mo-ra&layout=compact&langs_count=5&hide=html,css)](https://github.com/a-mo-ra)
 
 ### Projeto
 
@@ -34,7 +34,7 @@ Estudante de UI/UX design, se aventurando também no estudo autodidata de front-
 
 ### Linguagens utilizadas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-mo-ra&layout=compact)](https://github.com/a-mo-ra)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-mo-ra&layout=compact&langs_count=5&hide=html,css)](https://github.com/a-mo-ra)
 
 ### Contatos
 
