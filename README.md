@@ -6,7 +6,7 @@ Estudante de UI/UX design, se aventurando também no estudo autodidata de front-
 
 ### Detalhes
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=A-mo-ra&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=A-mo-ra&show_icons=true&theme=dark)]([https://github.com/a-mo-ra/github-readme-stats)
 
 
 ### Projeto
