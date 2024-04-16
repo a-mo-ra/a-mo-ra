@@ -1,6 +1,6 @@
 ### Olá!👩🏻‍💻✨
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=A-mo-ra&repo=projeto-jornadafullstack--ebac&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=a-mo-ra&repo=projeto-jornadafullstack--ebac&theme=dark)](https://github.com/a-mo-ra/projeto-jornadafullstack--ebac)
 
 
 ###### Sobre a Brenda 
@@ -9,33 +9,27 @@ Estudante de UI/UX design, se aventurando também no estudo autodidata de front-
 
 ### Detalhes
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=A-mo-ra&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=a-mo-ra&show_icons=true&theme=dark)](https://github.com/a-mo-ra)
 
 
 ### Projeto
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=A-mo-ra&repo=jornada-IA---EBAC-24&theme=dark)]((https://github.com/a-mo-ra/Jornada-IA---EBAC-24))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=a-mo-ra&repo=jornada-IA---EBAC-24&theme=dark)](https://github.com/a-mo-ra/jornada-IA---EBAC-24)
 
 ### Linguagens utilizadas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A-mo-ra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-### Projeto
-
-### Linguagens utilizadas
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A-mo-ra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-mo-ra&layout=compact)](https://github.com/a-mo-ra)
 
 
 ### Projeto
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=A-mo-ra&repo=Projeto-trilha-digital-ADA-CSS-HTML&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=a-mo-ra&repo=Projeto-trilha-digital-ADA-CSS-HTML&theme=dark)](https://github.com/a-mo-ra/Projeto-trilha-digital-ADA-CSS-HTML)
 
 
 ### Linguagens utilizadas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A-mo-ra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-mo-ra&layout=compact)](https://github.com/a-mo-ra)
 
 ### Contatos
 
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/brenda-art/)
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/brenda-designer/)
