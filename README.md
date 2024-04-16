@@ -36,4 +36,12 @@ Estudante de UI/UX design, se aventurando também no estudo autodidata de front-
 
 ### Contatos
 
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/brenda-art/)
+
+### Linguagens utilizadas
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A-mo-ra&layout=compact&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+
+### Contatos
+
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/brenda-designer/)
