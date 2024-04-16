@@ -1,7 +1,5 @@
 ### Olá!👩🏻‍💻✨
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=a-mo-ra&repo=projeto-jornadafullstack--ebac&theme=dark)](https://github.com/a-mo-ra/projeto-jornadafullstack--ebac)
-
 
 ###### Sobre a Brenda 
 Estudante de UI/UX design, se aventurando também no estudo autodidata de front-end e fullstack. E não só por achar incrível o universo da programação, como também por acreditar que esse tipo de conhecimento adicional me permite ter uma visão mais holística do processo de design, desde a concepção até a implementação final.
@@ -20,6 +18,14 @@ Estudante de UI/UX design, se aventurando também no estudo autodidata de front-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-mo-ra&layout=compact)](https://github.com/a-mo-ra)
 
+### Projeto
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=a-mo-ra&repo=projeto-jornadafullstack--ebac&theme=dark)](https://github.com/a-mo-ra/projeto-jornadafullstack--ebac)
+
+
+### Linguagens utilizadas
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-mo-ra&layout=compact)](https://github.com/a-mo-ra)
 
 ### Projeto
 
