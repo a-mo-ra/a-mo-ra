@@ -18,19 +18,9 @@ UX/UI design, se aventurando também no estudo autodidata de front-end. E não s
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=a-mo-ra&repo=projeto-jornadafullstack--ebac&theme=dark)](https://github.com/a-mo-ra/projeto-jornadafullstack--ebac)
 
-
-### Linguagens utilizadas
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-mo-ra&hide_title=true&layout=compact&card_width=100&hide_border=true)](https://github.com/a-mo-ra)
-
 ### Projeto
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=a-mo-ra&repo=Projeto-trilha-digital-ADA-CSS-HTML&theme=dark)](https://github.com/a-mo-ra/Projeto-trilha-digital-ADA-CSS-HTML)
-
-
-### Linguagens utilizadas
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-mo-ra&hide_title=true&layout=compact&card_width=100&hide_border=true)](https://github.com/a-mo-ra)
 
 ### Contatos
 
