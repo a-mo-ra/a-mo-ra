@@ -2,7 +2,7 @@
 
 
 ###### Sobre a Brenda 
-Estudante de UI/UX design, se aventurando também no estudo autodidata de front-end e fullstack. E não só por achar incrível o universo da programação, como também por acreditar que esse tipo de conhecimento adicional me permite ter uma visão mais holística do processo de design, desde a concepção até a implementação final.
+UX/UI design, se aventurando também no estudo autodidata de front-end. E não só por achar incrível o universo da programação, como também por acreditar que esse tipo de conhecimento adicional me permite ter uma visão mais holística do processo de design, desde a concepção até a implementação final.
 
 
 ### Detalhes
@@ -13,10 +13,6 @@ Estudante de UI/UX design, se aventurando também no estudo autodidata de front-
 ### Projeto
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=a-mo-ra&repo=jornada-IA---EBAC-24&theme=dark)](https://github.com/a-mo-ra/jornada-IA---EBAC-24)
-
-### Linguagens utilizadas
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-mo-ra&hide_title=true&layout=compact&card_width=100&hide_border=true)](https://github.com/a-mo-ra)
 
 ### Projeto
 
