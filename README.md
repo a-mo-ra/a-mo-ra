@@ -2,7 +2,7 @@
 
 
 ###### Sobre a Brenda 
-UX/UI design, se aventurando também no estudo autodidata de front-end. E não só por achar incrível o universo da programação, como também por acreditar que esse tipo de conhecimento adicional me permite ter uma visão mais holística do processo de design, desde a concepção até a implementação final.
+UX/UI design, se aventurando também no estudo autodidata de front-end quando tem um tempinho. E não só por achar incrível o universo da programação, como também por acreditar que esse tipo de conhecimento adicional me permite ter uma visão mais holística do processo de design, desde a concepção até a implementação final.
 
 
 ### Detalhes
