@@ -1,16 +1,16 @@
-# 🚀 Olá! Eu sou Brenda!
+# Olá! Eu sou Brenda!
 
 Bem-vindo(a) ao meu perfil no GitHub! Aqui você encontrará projetos que desenvolvi utilizando diversas tecnologias e linguagens de programação.
 
 ---
 
-## 📸 Sobre Mim
+## Sobre Mim
 
 Curiosa, criativa e dorameira. UX/UI Designer que se aventura no universo dos códigos quando tem um tempinho ;D
 
 ---
 
-## 📊 Estatísticas de Linguagens
+## Estatísticas de Linguagens
 
 Aqui estão as principais linguagens que utilizo nos meus projetos:
 
@@ -21,7 +21,7 @@ Aqui estão as principais linguagens que utilizo nos meus projetos:
 
 ---
 
-## 📂 Meus Repositórios
+## Meus Repositórios
 
 ### [Jornada IA - EBAC 24](https://github.com/a-mo-ra/Jornada-IA---EBAC-24)
 - **Descrição:** Projeto para criar uma rede neural artificial (RNA) e desenvolver uma IA com JavaScript.
