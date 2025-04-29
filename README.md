@@ -5,7 +5,8 @@ Bem-vindo(a) ao meu perfil no GitHub! Aqui você encontrará projetos que desenv
 ---
 
 ## 📸 Sobre Mim
-<img src="https://i.ibb.co/39v0fGN5" alt="Avatar" width="150" style="border-radius:50%">
+
+Curiosa, criativa e dorameira. UX/UI Designer que se aventura no universo dos códigos quando tem um tempinho ;D
 
 ---
 
