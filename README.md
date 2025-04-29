@@ -1,4 +1,4 @@
-# Olá! Eu sou Brenda!
+# Olá! Eu sou a Brenda!
 
 Boas-vindas ao meu perfil no GitHub! Aqui você encontrará projetos que desenvolvi para explorar na prática o aprendizado de diferentes linguagens de programação.
 
