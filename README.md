@@ -55,7 +55,7 @@ Aqui estão as principais linguagens que utilizo nos meus projetos:
 
 ## 🌟 Destaque
 
-**Privado:** [JurnyUX - Plataforma Processos de Design](#)
+**Privado:** [JurnyUX - Plataforma de Processos de Design](#)
 
 ---
 
