@@ -6,7 +6,7 @@ Bem-vindo(a) ao meu perfil no GitHub! Aqui você encontrará projetos que desenv
 
 ## 📸 Sobre Mim
 <!-- Substitua o link abaixo pela URL da sua imagem/avatar -->
-<img src=(https://photos.google.com/photo/AF1QipNj9PZREDMpfcgNbPdcZW6qIc-CIbaTdw7hl6Fn)" alt="Avatar" width="150" style="border-radius:50%">
+<img src=https://photos.google.com/photo/AF1QipNj9PZREDMpfcgNbPdcZW6qIc-CIbaTdw7hl6Fn" alt="Avatar" width="150" style="border-radius:50%">
 
 ---
 
