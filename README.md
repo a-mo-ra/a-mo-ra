@@ -1,6 +1,6 @@
 # Olá! Eu sou Brenda!
 
-Bem-vindo(a) ao meu perfil no GitHub! Aqui você encontrará projetos que desenvolvi utilizando diversas tecnologias e linguagens de programação.
+Bem-vindo(a) ao meu perfil no GitHub! Aqui você encontrará projetos que desenvolvi para explorar na prática o aprendizado de diferentes linguagens de programação.
 
 ---
 
