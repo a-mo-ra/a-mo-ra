@@ -1,28 +1,57 @@
-### Olá!👩🏻‍💻✨
+# 🚀 Olá! Eu sou Brenda!
 
+Bem-vindo(a) ao meu perfil no GitHub! Aqui você encontrará projetos que desenvolvi utilizando diversas tecnologias e linguagens de programação.
 
-###### Sobre a Brenda 
-UX/UI design, se aventurando também no estudo autodidata de front-end quando tem um tempinho. E não só por achar incrível o universo da programação, como também por acreditar que esse tipo de conhecimento adicional me permite ter uma visão mais holística do processo de design, desde a concepção até a implementação final.
+---
 
+## 📸 Sobre Mim
+<!-- Substitua o link abaixo pela URL da sua imagem/avatar -->
+<img src=["https://avatars.githubusercontent.com/u/134246346?v=4](https://photos.google.com/photo/AF1QipNj9PZREDMpfcgNbPdcZW6qIc-CIbaTdw7hl6Fn)" alt="Avatar" width="150" style="border-radius:50%">
 
-### Detalhes
+---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=a-mo-ra&show_icons=true&theme=dark)](https://github.com/a-mo-ra)
+## 📊 Estatísticas de Linguagens
 
+Aqui estão as principais linguagens que utilizo nos meus projetos:
 
-### Projeto
+- **JavaScript**: 🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜ 40%
+- **TypeScript**: 🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜ 30%
+- **CSS**: 🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ 20%
+- **Shell**: 🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜ 10%
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=a-mo-ra&repo=jornada-IA---EBAC-24&theme=dark)](https://github.com/a-mo-ra/jornada-IA---EBAC-24)
+---
 
-### Projeto
+## 📂 Meus Repositórios
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=a-mo-ra&repo=projeto-jornadafullstack--ebac&theme=dark)](https://github.com/a-mo-ra/projeto-jornadafullstack--ebac)
+### [Jornada IA - EBAC 24](https://github.com/a-mo-ra/Jornada-IA---EBAC-24)
+- **Descrição:** Projeto para criar uma rede neural artificial (RNA) e desenvolver uma IA com JavaScript.
+- **Linguagem:** JavaScript
 
-### Projeto
+### [Interface simples de agendamento de consulta](https://github.com/a-mo-ra/Interface-simples-de-agendamendo-de-consulta)
+- **Descrição:** Projeto para interface de agendamento simples de consultas.
+- **Linguagem:** TypeScript
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=a-mo-ra&repo=Projeto-trilha-digital-ADA-CSS-HTML&theme=dark)](https://github.com/a-mo-ra/Projeto-trilha-digital-ADA-CSS-HTML)
+### [Projeto trilha digital ADA CSS HTML](https://github.com/a-mo-ra/Projeto-trilha-digital-ADA-CSS-HTML)
+- **Descrição:** Projeto para prática de HTML e CSS na criação de interfaces gráficas para sites.
+- **Linguagem:** CSS
 
-### Contatos
+### [Desafio Microsoft GitHub Copilot](https://github.com/a-mo-ra/desafio-microsoft-github-copilot)
+- **Descrição:** Repositório criado para um desafio utilizando o GitHub Copilot.
+- **Linguagem:** Shell Script
 
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/be-moreno/)
+### [Desafio Intro GitHub 2025](https://github.com/a-mo-ra/desafio-intro-github-2025)
+- **Descrição:** Repositório criado para um desafio introdutório no GitHub.
+- **Linguagem:** Não especificada
+
+---
+
+## 🌟 Destaque
+
+- **Privado:** [JurnyUX - Plataforma Processos de Design](#)
+- **Privado:** [Vite](#)
+
+---
+
+## 🚀 Conecte-se Comigo
+- [Perfil no GitHub](https://www.linkedin.com/in/be-moreno/)
 
