@@ -14,10 +14,10 @@ Curiosa, criativa e dorameira. UX/UI Designer que se aventura no universo dos c�
 
 Aqui estão as principais linguagens que utilizo nos meus projetos:
 
-- **JavaScript**: 🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜ 40%
-- **TypeScript**: 🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜ 30%
-- **CSS**: 🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ 20%
-- **Shell**: 🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜ 10%
+- **JavaScript**: 🔵 (40%)
+- **TypeScript**: 🟠 (30%)
+- **CSS**: 🟣 (20%)
+- **Shell**: 🟢 (10%)
 
 ---
 
@@ -48,7 +48,11 @@ Aqui estão as principais linguagens que utilizo nos meus projetos:
 ## 🌟 Destaque
 
 - **Privado:** [JurnyUX - Plataforma Processos de Design](#)
-- **Privado:** [Vite](#)
+
+---
+
+## 🚀 Conecte-se Comigo
+- [Perfil no GitHub](https://www.linkedin.com/in/be-moreno/)
 
 ---
 
