@@ -23,6 +23,12 @@ Aqui estão as principais linguagens que utilizo nos meus projetos:
 
 ## Meus Repositórios
 
+
+### [Bê Creative UX - Design System](https://github.com/a-mo-ra/be-ux-creative-design-system)
+**Descrição:** esign System criado para uso pessoal em processos de criação de interface no Figma, garantindo consistência e escalabilidade.
+
+**🟠 TypeScript**
+
 ### [Jornada IA - EBAC 24](https://github.com/a-mo-ra/Jornada-IA---EBAC-24)
 **Descrição:** Projeto desenvolvido como prática de JavaScript a partir da criação de uma rede neural artificial (RNA) para construção de IA.
 
