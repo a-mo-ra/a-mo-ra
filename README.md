@@ -28,6 +28,7 @@ Aqui estão as principais linguagens que utilizo nos meus projetos:
 **Descrição:** Mini design System criado para uso pessoal, com o intuito de otimizar processos de criação de interface no Figma, garantindo consistência e escalabilidade.
 
 **🟠 TypeScript** 
+
 **Plataforma Lovable**
 
 ### [Desafio Microsoft GitHub Copilot](https://github.com/a-mo-ra/desafio-microsoft-github-copilot)
