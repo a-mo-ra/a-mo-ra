@@ -60,11 +60,6 @@ Aqui estão as principais linguagens que utilizo nos meus projetos:
 
 ---
 
-## 🌟 Destaque
-
-**Privado:** [JurnyUX - Plataforma Gestão de Processos de Design + AI Integrada](#)
-
----
 
 
 ## 🚀 Conecte-se Comigo
