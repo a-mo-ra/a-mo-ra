@@ -27,7 +27,8 @@ Aqui estão as principais linguagens que utilizo nos meus projetos:
 ### [Mini Design System - Bê UX Creative](https://github.com/a-mo-ra/be-moreno-ux-design-system)
 **Descrição:** Mini design System criado para uso pessoal, com o intuito de otimizar processos de criação de interface no Figma, garantindo consistência e escalabilidade.
 
-**🟠 TypeScript**
+**🟠 TypeScript** 
+<img src="https://lovablehub.com/assets/img/logo_lovable_azul.svg" alt="Logo da Lovable" width="120" />
 
 ### [Desafio Microsoft GitHub Copilot](https://github.com/a-mo-ra/desafio-microsoft-github-copilot)
 **Descrição:** Repositório criado para um desafio utilizando o GitHub Copilot.
@@ -43,6 +44,7 @@ Aqui estão as principais linguagens que utilizo nos meus projetos:
 **Descrição:** Projeto prático que explora o uso de IA smart code na criação de protótipos/ MVPs.
 
 **🟠 TypeScript**
+<img src="https://lovablehub.com/assets/img/logo_lovable_azul.svg" alt="Logo da Lovable" width="120" />
 
 
 
