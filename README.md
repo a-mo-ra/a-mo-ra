@@ -24,8 +24,8 @@ Aqui estão as principais linguagens que utilizo nos meus projetos:
 ## Meus Repositórios
 
 
-### [Bê Creative UX - Design System](https://github.com/a-mo-ra/be-ux-creative-design-system)
-**Descrição:** esign System criado para uso pessoal em processos de criação de interface no Figma, garantindo consistência e escalabilidade.
+### [Mini Design System - Bê UX Creative](https://github.com/a-mo-ra/be-moreno-ux-design-system)
+**Descrição:** Mini design System criado para uso pessoal, com o intuito de otimizar processos de criação de interface no Figma, garantindo consistência e escalabilidade.
 
 **🟠 TypeScript**
 
@@ -62,7 +62,7 @@ Aqui estão as principais linguagens que utilizo nos meus projetos:
 
 ## 🌟 Destaque
 
-**Privado:** [JurnyUX - Plataforma de Processos de Design](#)
+**Privado:** [JurnyUX - Plataforma Gestão de Processos de Design + AI Integrada](#)
 
 ---
 
