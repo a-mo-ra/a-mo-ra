@@ -45,6 +45,7 @@ Aqui estão as principais linguagens que utilizo nos meus projetos:
 **Descrição:** Projeto prático que explora o uso de IA smart code na criação de protótipos/ MVPs.
 
 **🟠 TypeScript**
+
 **Plataforma Lovable**
 
 
