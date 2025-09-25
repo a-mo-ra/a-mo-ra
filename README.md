@@ -1,6 +1,6 @@
 # Olá! Eu sou a Brenda!
 
-Boas-vindas ao meu perfil no GitHub! Aqui você encontrará projetos que desenvolvi para explorar na prática o aprendizado de diferentes linguagens de programação.
+Boas-vindas ao meu perfil no GitHub! Aqui você encontrará projetos que desenvolvi com ajuda de professores e diferentes ferramentas de AI, incluindo Copiloto do GitHub. Todos com um objetivo em cumum: explorar na prática o aprendizado de diferentes linguagens de programação, me familiarizando com termos e códigos.
 
 ---
 
